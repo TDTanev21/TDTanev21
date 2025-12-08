@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teodor Tanev</h1>
-- 🌱 I’m currently learning **Python**
+- 🌱 I know Python and Flask
 
 - 💬 Ask me about **C++ and Raylib**
 
